@@ -16,7 +16,7 @@
             <key>PayloadDescription</key>
             <string>Configures Web Clip</string>
             <key>PayloadDisplayName</key>
-            <string>Alone Store‌‌</string>
+            <string>Spark Store‌‌</string>
             <key>PayloadIdentifier</key>
             <string>com</string>
             <key>PayloadOrganization</key>
@@ -30,7 +30,7 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>https://sparkd3v.github.io/IPA/</string>
+            <string>https://sparkd3v.github.io/IPA</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
@@ -38,7 +38,7 @@
     <key>PayloadDisplayName</key>
     <string>Spark Store‌‌</string>
     <key>PayloadIdentifier</key>
-    <string>https://sparkd3v.github.io/IPA/</string>
+    <string>https://sparkd3v.github.io/IPA</string>
     <key>PayloadOrganization</key>
     <string>SparkD3V</string>
     <key>PayloadRemovalDisallowed</key>
