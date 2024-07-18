@@ -25,9 +25,9 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>com.dmg.supermarket.simulator</string>
+                        <string>net.whatsapp.WhatsApp</string>
                         <key>bundle-version</key>
-                        <string>1.0.50</string>
+                        <string>24.14.81</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
